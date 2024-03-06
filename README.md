@@ -1,5 +1,5 @@
 # Racial Discrimination in Police Force and Arrests Project
-![race relations](https://github.com/jameskoli/Terrystopsdata/issues/1#issue-2171912450)
+![race relations](https://images.wydaily.com/wp-content/uploads/2020/06/101762390_4540596685966256_3329579920555769856_o-e1591204104374.jpg)
 
 
 This project aims to analyze and raise awareness about racial discrimination within the police force and its impact on arrests.
