@@ -10,6 +10,7 @@ This project aims to analyze and raise awareness about racial discrimination wit
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Analysis](#analysis)
+- [Contributing](#contributing)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -28,4 +29,5 @@ I preprocessed the dataset to accommodate missing values, encode categorical var
 
 We invite all individuals passionate about addressing racial discrimination in law enforcement to contribute to our project. Your contributions can make a meaningful difference in advancing our understanding and efforts towards fostering fair and just policing practices.
 
-
+## Conclusion
+This project serves as a stepping stone towards addressing racial discrimination within law enforcement, shedding light on disparities in stop resolutions and advocating for reforms aimed at promoting fairness and equity in policing practices.
