@@ -8,7 +8,7 @@ This project aims to analyze and raise awareness about racial discrimination wit
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Dataset](#dataset understanding)
+- [Dataset](#dataset)
 - [Analysis](#analysis)
 - [Conclusion](#conclusion)
 
